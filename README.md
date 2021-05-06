@@ -7,7 +7,7 @@ Senior Software Engineer | Team Lead
   </a>
 </p>
 
-
+- 📝 I have started to write technical solution which can be either final one or just a try-out the things. For more detail, [@ajk-hub](https://github.com/ajk-hub)
 - 💬 To know more about me, [just follow the link](https://ashimkhadka.com.np)
 
 <p align="left">
