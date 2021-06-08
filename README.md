@@ -5,6 +5,9 @@ Senior Software Engineer | Team Lead
   <a href="https://github.com/ashimjk?tab=repositories">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimjk&layout=compact" />
   </a>
+  <a href="https://github.com/ashimjk?tab=repositories">
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=ashimjk&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues" />
+  </a>
 </p>
 
 - 📝 I have started to write technical solution which can be either final one or just a try-out the things. For more detail, [@ajk-hub](https://github.com/ajk-hub)
