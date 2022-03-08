@@ -10,7 +10,7 @@ Senior Software Engineer | Team Lead
   </a>
 </p>
 
-- 📝 Please also visit [@ajk-hub](https://github.com/ajk-hub) for more technical solutions.
+- 📝 Please also visit [@ajk-hub](https://github.com/ajk-hub) or [blog](https://ashimjk.github.io/blog/) for more technical solutions.
 - 💬 To know more about me, [just follow the link](https://ashimkhadka.com.np)
 
 <p align="left">
